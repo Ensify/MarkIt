@@ -1,0 +1,19 @@
+{
+	"manifest_version": 3,
+	"name": "MarkIt",
+	"description": "MarkIt for Zoho Cliq, share your links to your teams and organization and track your readings.",
+	"version": "1.0",
+
+	"background": {
+		"service_worker": "background.js"
+	},
+
+	"permissions": [
+    "tabs",
+    "storage"
+  ],
+
+	"action": {
+		"default_title": "Add your link"
+	}
+}

@@ -1,0 +1,15 @@
+h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.container{
+  align-items: center;
+  justify-items: center;
+}
